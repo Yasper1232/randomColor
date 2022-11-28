@@ -1,0 +1,56 @@
+*{
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+
+
+}
+
+
+body{
+
+background-color: brown;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 300px;
+}
+
+.blck{
+
+    background-color: rgba(34, 31, 31, 0.884);
+    width: 100%;
+text-align: center;
+
+}
+
+
+.btn{
+margin-top: 30px;
+height: 50px;
+width: 150px;
+border: none;
+outline: none;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+
+
+}
+
+
+h1{
+
+font-size: 50px;
+
+}
+
+p.color{
+
+font-size: 30px;
+color: rgb(65, 65, 206);
+
+}
